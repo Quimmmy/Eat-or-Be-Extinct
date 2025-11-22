@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: bf191529aa31bdc4f9fb753c898fae08
+guid: 8fe279303d35ed64c96de3552e54c763
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -121550713077426955
-    second: Quit_0
-  - first:
-      213: 223920669891790421
-    second: Quit_1
-  - first:
-      213: 8043252216654102714
-    second: Quit_2
+      213: -962779709935788221
+    second: DINO1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,67 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Quit_0
+      name: DINO1_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 94
-        width: 349
-        height: 199
+        x: 244
+        y: 0
+        width: 337
+        height: 521
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f413dc354a205ef0800000000000000
-      internalID: -121550713077426955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Quit_1
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 142
-        width: 82
-        height: 107
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55684c2b9a68b1300800000000000000
-      internalID: 223920669891790421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Quit_2
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 212
-        width: 137
-        height: 132
-      alignment: 9
-      pivot: {x: 0.43065694, y: 1.3863636}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab08a8ca64f5f9f60800000000000000
-      internalID: 8043252216654102714
+      spriteID: 34fd25074f483a2f0800000000000000
+      internalID: -962779709935788221
       vertices: []
       indices: 
       edges: []
@@ -175,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 32dfb50b93b215a43ae9a1cc71ea907e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Quit_0: -121550713077426955
-      Quit_1: 223920669891790421
-      Quit_2: 8043252216654102714
+      DINO1_0: -962779709935788221
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
