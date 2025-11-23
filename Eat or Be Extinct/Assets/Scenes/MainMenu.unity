@@ -639,9 +639,12 @@ MonoBehaviour:
       m_Calls: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Sprite: {fileID: 6208176927266180224, guid: 0030ed14d43408c46b026766b2653913, type: 3}
   m_Type: 0
 =======
+=======
+>>>>>>> parent of 265e2ea (Main Menu BG added)
 =======
 >>>>>>> parent of 265e2ea (Main Menu BG added)
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
@@ -842,6 +845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &772565655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -955,6 +959,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 924768003}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of 265e2ea (Main Menu BG added)
 =======
 >>>>>>> parent of 265e2ea (Main Menu BG added)
 =======
