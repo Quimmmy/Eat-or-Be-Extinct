@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: bf191529aa31bdc4f9fb753c898fae08
+guid: 1088a88835e41f34db318f04ef0cfcf7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -121550713077426955
-    second: Quit_0
-  - first:
-      213: 223920669891790421
-    second: Quit_1
-  - first:
-      213: 8043252216654102714
-    second: Quit_2
+      213: 1654622464693255576
+    second: DINOO1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,67 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Quit_0
+      name: DINOO1_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 100
-        width: 359
-        height: 187
+        x: 244
+        y: 0
+        width: 337
+        height: 521
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f413dc354a205ef0800000000000000
-      internalID: -121550713077426955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Quit_1
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 109
-        width: 82
-        height: 107
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55684c2b9a68b1300800000000000000
-      internalID: 223920669891790421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Quit_2
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 109
-        width: 137
-        height: 132
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab08a8ca64f5f9f60800000000000000
-      internalID: 8043252216654102714
+      spriteID: 89d3c657d5666f610800000000000000
+      internalID: 1654622464693255576
       vertices: []
       indices: 
       edges: []
@@ -188,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f1be978104ab45345a1a46877cfb1c10
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Quit_0: -121550713077426955
-      Quit_1: 223920669891790421
-      Quit_2: 8043252216654102714
+      DINOO1_0: 1654622464693255576
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
