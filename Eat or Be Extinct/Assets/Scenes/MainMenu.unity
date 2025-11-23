@@ -637,8 +637,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_Sprite: {fileID: 6208176927266180224, guid: 0030ed14d43408c46b026766b2653913, type: 3}
   m_Type: 0
+=======
+=======
+>>>>>>> parent of 265e2ea (Main Menu BG added)
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> parent of 265e2ea (Main Menu BG added)
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -722,12 +730,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772565653}
-  - component: {fileID: 772565656}
   - component: {fileID: 772565652}
   - component: {fileID: 772565651}
   - component: {fileID: 772565650}
   - component: {fileID: 772565654}
-  - component: {fileID: 772565655}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -834,6 +840,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6b95f15110fe1d49bc58635e3e718a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &772565655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -947,6 +955,10 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 924768003}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of 265e2ea (Main Menu BG added)
+=======
+>>>>>>> parent of 265e2ea (Main Menu BG added)
 --- !u!1 &1842300095
 GameObject:
   m_ObjectHideFlags: 0
